@@ -1,0 +1,277 @@
+.container {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .item {
+    width: 10em;
+  }
+  
+  .i {
+    position: absolute;
+    width: 306px;
+    height: 38px;
+    left: 497px;
+    top: 245px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+  }
+  
+  .r {
+    /* Rectangle 4130 */
+    box-sizing: border-box;
+    position: absolute;
+    width: 477px;
+    height: 419px;
+    left: 453px;
+    top: 221px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+  }
+  
+  .t {
+    /* X Join a Class */
+    position: absolute;
+    width: 225px;
+    height: 27px;
+    left: 74px;
+    top: 71px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 27px;
+    color: #000000;
+  }
+  
+  .join-button {
+    background-color: #1700CF;
+    color: white;
+    padding: 8px 22px;
+    border: none;
+    border-radius: 5px;
+    position: fixed;
+    top: 65px;
+    right: 20px;
+    width: 238px;
+    height: 65px;
+  }
+  
+  .t1 {
+    /* Button */
+    width: 193px;
+    height: 29px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: 0.46px;
+    color: #FFFFFF;
+  }
+  
+  .e {
+    /* You are logged in as */
+    position: absolute;
+    width: 160px;
+    height: 19px;
+    left: 610px;
+    top: 245px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+  }
+  
+  .e1 { 
+    /* hassan oudrar */
+    position: absolute;
+    width: 110px;
+    height: 22px;
+    left: 610px;
+    top: 278px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+  }
+  
+  .e11 {
+    position: absolute;
+    border-radius: 50%; /* To make it round */
+    margin-right: 10px; /* Add spacing between the avatar and the name */
+    bottom: 0%;
+    width: 20px;
+    height: 20px;
+    left: 746px;
+    top: 278px;
+    /* Photo */
+    /* background: url(Image.png); */
+  }
+  
+  .person {
+    display: flex;
+    align-items: center;
+  }
+  
+  .e2 { 
+    /* hassan111@gmail.com */
+    position: absolute;
+    width: 114px;
+    height: 13px;
+    left: 610px;
+    top: 300px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #000000;
+  }
+  
+  .e3  { 
+    /* class code */
+    position: absolute;
+    width: 140px;
+    height: 39px;
+    left: 610px;
+    top: 372px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+  }
+  
+  .e4  { 
+    /* Ask your teacher for the course code, then enter it here. */
+    position: absolute;
+    width: 187px;
+    height: 21px;
+    left: 610px;
+    top: 411px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #000000;
+  }
+    
+  .f {
+    /* Rectangle 4131 */
+    box-sizing: border-box;
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 600px;
+    top: 457px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+  }
+  
+  .f::placeholder {
+    /* Enter code here */
+    position: absolute;
+    width: 129px;
+    height: 14px;
+    left: 521px;
+    top: 468px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #000000;
+  }
+  
+  .f1 {
+    /* Enter code here */
+    position: absolute;
+    width: 129px;
+    height: 14px;
+    left: 610px;
+    top: 468px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #000000;
+  }
+  
+  .ellipse-551 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 478px;
+    top: 522px;
+    background: #737373;
+  }
+  
+  .course-code {
+    position: absolute;
+    width: 178px;
+    height: 15px;
+    left: 494px;
+    top: 521px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+    color: #000000;
+  }
+  
+  .l11 {
+    /* Use a course code consisting of 5 to 7 letters or numbers, without spaces or symbols */
+    position: absolute;
+    width: 178px;
+    height: 15px;
+    left: 610px;
+    top: 521px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+    color: #000000;
+  }
+  
+  .l2 {
+    /* Ellipse 552 */
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 478px;
+    top: 561px;
+    background: #737373;
+  }
+  
+  .l22 {
+    /* the code will be expired in 48 hours */
+    position: absolute;
+    width: 178px;
+    height: 15px;
+    left: 610px;
+    top: 560px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+    color: #000000;
+  }

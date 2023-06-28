@@ -1,0 +1,1131 @@
+
+
+
+
+
+.faq-container {
+    /* Rectangle 4132 */
+    box-sizing: border-box;
+    position: absolute;
+    width: 514px;
+    left: 142px;
+    top: 540px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 15px;
+  }
+
+  .faq-item {
+    border-bottom: 1px solid #000000;
+    cursor: pointer;
+  }
+
+  .faq-question {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  .faq-answer {
+    display: none;
+    padding: 10px;
+  }
+
+  .faq-arrow {
+    margin-right: 5px;
+  }
+
+  .faq-item.active .faq-answer {
+    display: block;
+  }
+
+  .faq-item.active .faq-arrow {
+    transform: rotate(90deg);
+  }
+  .E11{
+    position: absolute;
+    width: 36.29px;
+    height: 36.29px;
+    left: 1240px;
+    top: 32px;
+    border-radius: 50%; /* To make it round */
+    margin-right: 10px; /* Add spacing between the avatar and the name */
+  }
+
+
+  .liste {
+      position: absolute;
+      width: 595px;
+      height: 518px;
+      left: 880px;
+      top: 330px;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 25px;
+      color: #000000;
+    }
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+body {
+    /* Dashboard 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Colors / Grey / 1 */
+background: #F8F8F8;
+}
+
+.top-t{
+    top : 350px;
+}
+.a{
+    /* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Colors / White / 100% */
+background: #FFFFFF;
+border-radius: 0px 20px 20px 0px;
+}
+.icon1{
+    /* icon 1 */
+
+position: absolute;
+width: 53px;
+height: 38px;
+left: 20px;
+top: 31px;
+}
+.a1{
+    /* Color */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+opacity: 0.2;
+border-radius: 71.5px;
+
+}
+
+
+/* Search */
+
+.bg-white1 {
+    /* BG */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    /* Colors / White / 100% */
+    background: #FFFFFF;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.b3{
+    /* Color */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+opacity: 0.2;
+border-radius: 71.5px;
+
+}
+.b4{
+    /* Path */
+
+
+left: 1.76%;
+right: 97.12%;
+top: 9.45%;
+bottom: 88.82%;
+
+}
+
+.my{
+    /* Liste de vos Cours */
+
+position: absolute;
+width: 350px;
+height: 33px;
+left: 148px;
+top: 108px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 20px;
+/* or 62% */
+
+color: #000000;
+
+
+}
+.LLC{
+    /* Learn Linux commandes and practice as you progress */
+
+position: absolute;
+width: 500px;
+height: 33px;
+left: 139px;
+top: 340px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 40px;
+/* or 125% */
+
+color: #000000;
+}
+.ana{
+    /* linux 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 900px;
+right: 9.57%;
+top: 140px;
+bottom: 72.61%;
+border: 1px solid #000000;
+
+}
+.LLC1{
+    /* This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3 */
+
+position: absolute;
+width: 400px;
+height: 49px;
+left: 139px;
+top: 433px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+
+color: #000000;
+
+
+}
+.course-pro{
+    /* course progresss */
+
+position: absolute;
+left: 139px;
+
+top: 260px;
+bottom: 19.5%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* or 104% */
+text-align: center;
+
+color: #000000;
+
+
+}
+.ic1{
+    /* + */
+
+position: absolute;
+width: 20px;
+height: 18px;
+left: 1150px;
+top: 40px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 20px;
+
+/* or 42% */
+}
+.prog{
+  position: absolute;
+  left: 139px;
+  
+  top: 140px;
+  bottom: 19.5%;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28.7806px;
+  line-height: 30px;
+  text-align: center;
+  color: #000000;
+
+}
+
+
+
+.ic2{
+    /* Rectangle 4128 */
+
+position: absolute;
+width: 140.61px;
+height: 144.29px;
+left: 1200px;
+top: 40px;
+
+
+border-radius: 36.2109px 36.2109px 8.04688px 8.04688px;
+
+}
+
+.person {
+    display: flex;
+    align-items: center;
+  }
+
+  .e11{
+    position: absolute;
+    width: 36.29px;
+    height: 36.29px;
+    left: 1240px;
+    top: 32px;
+    border-radius: 50%; /* To make it round */
+    margin-right: 10px; /* Add spacing between the avatar and the name */
+
+    }
+/*-----------------------*/
+.linux1{
+    /* linux 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+bottom: 75.78%;
+left: 148px;
+top: 180px;
+height: 110px;
+width: 218px;
+left: 148px;
+
+border: 1px solid #000000;}
+
+.linux2{
+    /* linux 2 */
+
+/* python course 1 */
+
+position: absolute;
+left: 441px;
+right: 56.13%;
+top: 180px;
+bottom: 75.78%;
+height: 110px;
+width: 218px;
+
+}
+
+.linux3{
+/* python course 2 */
+
+position: absolute;
+left: 734px;
+right: 31.87%;
+top: 180px;
+bottom: 75.78%;
+
+height: 110px;
+width: 218px;}
+
+.linux4{
+   /* python course 3 */
+
+position: absolute;
+left: 1027px;
+right: 10.66%;
+top: 180px;
+bottom: 75.78%;
+height: 110px;
+width: 218px;}
+.linux11{
+    /* Learn Linux commands and practice as you progress */
+
+position: absolute;
+width: 300px;
+height: 80px;
+left: 146px;
+top: 290px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 30px;
+/* or 200% */
+color: #000000;}
+.linux21{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 441px;
+    top: 290px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;
+}
+.linux31{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 734px;
+    top: 290px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;}
+.linux41{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 1027px;
+    top: 290px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;}
+.p1{
+    /* Photo */
+
+position: absolute;
+
+left: 148px;
+top: 350px;
+Width: 24px;
+Height: 24px;
+border-radius: 70%; /* To make it round */
+margin-right: 20px; /* Add spacing between the avatar and the name */
+}
+.p2{
+    position: absolute;
+
+    left: 441px;
+    top: 350px;
+    Width: 24px;
+    Height: 24px;
+    border-radius: 70%; /* To make it round */
+    margin-right: 20px; /* Add spacing between the avatar and the name */
+}
+.p3{
+position: absolute;
+
+left: 734px;
+top: 350px;
+Width: 24px;
+Height: 24px;
+border-radius: 70%; /* To make it round */
+margin-right: 20px; /* Add spacing between the avatar and the name */
+
+}
+.p4{
+    position: absolute;
+
+    left: 1027px;
+    top: 350px;
+    Width: 24px;
+    Height: 24px;
+    border-radius: 70%; /* To make it round */
+    margin-right: 20px; /* Add spacing between the avatar and the name */
+    
+   }
+.p11{
+    /* Payroll */
+
+    position: absolute;
+    width: 323px;
+    height: 80px;
+    left: 185px;
+    top: 355px; 
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;}
+.p21{
+    /* Payroll */
+
+    position: absolute;
+    width: 323px;
+    height: 80px;
+    left: 478px;
+    top: 355px; 
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+.p31{
+    /* Payroll */
+
+    position: absolute;
+    width: 323px;
+    height: 80px;
+    left: 771px;
+    top: 355px; 
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+}
+.p41{
+    position: absolute;
+    width: 323px;
+    height: 80px;
+    left: 1064px;
+    top: 355px; 
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+}
+
+
+.f::placeholder {
+    /* Enter code here */
+    position: absolute;
+    width: 129px;
+    height: 14px;
+    left: 521px;
+    top: 468px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #000000;
+  }
+
+
+
+/*-----------------------*/
+.linux5{
+    /* linux 1 */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    bottom: 75.78%;
+    left: 148px;
+    top: 430px;
+    height: 110px;
+    width: 218px;
+    left: 148px;
+   
+    border: 1px solid #000000;
+
+
+}
+
+.linux6{
+ 
+
+position: absolute;
+left: 441px;
+right: 56.13%;
+top: 430px;
+bottom: 75.78%;
+height: 110px;
+width: 218px;
+
+
+
+
+}
+
+.linux7{
+/* python course 2 */
+
+position: absolute;
+left: 734px;
+right: 31.87%;
+top: 430px;
+bottom: 75.78%;
+height: 110px;
+width: 218px;
+
+
+
+
+
+}
+.linux8{
+   /* python course 3 */
+
+position: absolute;
+left: 1027px;
+right: 10.66%;
+top: 430px;
+bottom: 75.78%;
+height: 110px;
+width: 218px;
+
+
+    
+    
+    
+    }
+.linux51{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 148px;
+    top: 540px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;
+
+}
+.linux61{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 441px;
+    top: 540px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;
+}
+.linux71{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 734px;
+    top: 540px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;
+}
+.linux81{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 1027px;
+    top: 540px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;
+}
+.p5{
+    /* Photo */
+
+position: absolute;
+
+left: 148px;
+top: 600px;
+Width: 24px;
+Height: 24px;
+border-radius: 70%; /* To make it round */
+margin-right: 20px; /* Add spacing between the avatar and the name */
+
+
+}
+.p6{
+ 
+position: absolute;
+
+left: 441px;
+top: 600px;
+Width: 24px;
+Height: 24px;
+border-radius: 70%; /* To make it round */
+margin-right: 20px; /* Add spacing between the avatar and the name */
+
+
+}
+.p7{
+
+    position: absolute;
+
+    left: 734px;
+    top: 600px;
+    Width: 24px;
+    Height: 24px;
+    border-radius: 70%; /* To make it round */
+    margin-right: 20px; /* Add spacing between the avatar and the name */
+    
+    
+}
+.p8{
+    
+position: absolute;
+
+left: 1027px;
+top: 600px;
+Width: 24px;
+Height: 24px;
+border-radius: 70%; /* To make it round */
+margin-right: 20px; /* Add spacing between the avatar and the name */
+
+
+}
+.p51{
+    /* Payroll */
+
+    position: absolute;
+    width: 323px;
+    height: 80px;
+    left: 185px;
+    top: 605px; 
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+.p61{
+ /* Payroll */
+
+ position: absolute;
+ width: 323px;
+ height: 80px;
+ left: 478px;
+ top: 605px; 
+ 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+.p71{
+ /* Payroll */
+
+ position: absolute;
+ width: 323px;
+ height: 80px;
+ left: 771px;
+ top: 605px; 
+ 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+.p81{
+    /* Payroll */
+
+    position: absolute;
+    width: 323px;
+    height: 80px;
+    left: 1064px;
+    top: 605px; 
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+
+
+
+
+
+
+
+/*-----------------------*/
+.linux9{
+  /* python course 3 */
+
+  position: absolute;
+  left: 148px;
+  right: 10.66%;
+  top: 680px;
+  bottom: 75.78%;
+  height: 110px;
+  width: 218px;
+  
+}
+
+.linux10{
+ 
+    position: absolute;
+    left: 441px;
+    right: 10.66%;
+    top: 680px;
+    bottom: 75.78%;
+    height: 110px;
+    width: 218px;
+    
+}
+
+.linuxx11{
+
+    position: absolute;
+    left: 734px;
+    right: 10.66%;
+    top: 680px;
+    bottom: 75.78%;
+    height: 110px;
+    width: 218px;
+   
+}
+.linux12{
+   
+  position: absolute;
+  left: 1027px;
+  right: 10.66%;
+  top: 680px;
+  bottom: 75.78%;
+  height: 110px;
+  width: 218px;
+ 
+    }
+.linux101{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 148px;
+    top: 790px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;
+
+}
+.linux111{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 441px;
+    top: 790px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;
+}
+.linux121{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 734px;
+    top: 790px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;
+}
+.linux91{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 1027px;
+    top: 790px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+    color: #000000;
+}
+.p9{
+    position: absolute;
+
+    left: 148px;
+    top: 850px;
+    Width: 24px;
+    Height: 24px;
+    border-radius: 70%; /* To make it round */
+    margin-right: 20px; /* Add spacing between the avatar and the name */
+    
+   
+
+}
+.p10{
+    position: absolute;
+
+    left: 441px;
+    top: 850px;
+    Width: 24px;
+    Height: 24px;
+    border-radius: 70%; /* To make it round */
+    margin-right: 20px; /* Add spacing between the avatar and the name */
+    
+    
+
+}
+.px11{
+    position: absolute;
+
+    left: 734px;
+    top: 850px;
+    Width: 24px;
+    Height: 24px;
+    border-radius: 70%; /* To make it round */
+    margin-right: 20px; /* Add spacing between the avatar and the name */
+    
+ 
+}
+.p12{
+    position: absolute;
+
+    left: 1027px;
+    top: 850px;
+    Width: 24px;
+    Height: 24px;
+    border-radius: 70%; /* To make it round */
+    margin-right: 20px; /* Add spacing between the avatar and the name */
+    
+   
+}
+.p101{
+    /* Payroll */
+
+    position: absolute;
+    width: 323px;
+    height: 80px;
+    left: 185px;
+    top: 855px; 
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+   
+}
+.my-4{
+    /* icon 1 */
+
+position: absolute;
+width: 53px;
+height: 38px;
+left: 10px;
+top: 25px;
+}
+.search-icon{
+    position: absolute;
+    width: 53px;
+    height: 38px;
+    left: 10px;
+    top: 25px;
+}
+.p111{
+    position: absolute;
+    width: 323px;
+    height: 80px;
+    left: 478px;
+    top: 855px; 
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+.p121{
+    position: absolute;
+    width: 323px;
+    height: 80px;
+    left: 771px;
+    top: 855px; 
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+.p91{
+    position: absolute;
+    width: 323px;
+    height: 80px;
+    left: 1064px;
+    top: 855px; 
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+
+
+
+.circular-progress {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 88px;
+    top: 25px; 
+    
+    
+  }
+  
+  .circle {
+    transform: rotate(-90deg);
+    transform-origin: center;
+  }
+  
+  .circle-background {
+    fill: none;
+    stroke: #e4e4e4;
+    stroke-width: 10;
+  }
+  
+  .circle-progress {
+    fill: none;
+    stroke: #00b0f0;
+    stroke-width: 10;
+    transition: stroke-dashoffset 0.3s ease-in-out;
+   
+  }
+  
+  .progress-text {
+    
+    position: absolute;
+    top: 165px;
+    left: 140px;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    
+  }
+  
